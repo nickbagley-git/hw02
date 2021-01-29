@@ -1,0 +1,58 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+
+Nick Bagley
+
+2. What hostname did you deploy to?
+
+hw02.bagleysite.com
+
+3. What's the link to your repository on github with your code?
+
+https://github.com/nickbagley-git/hw02
+
+4. How many HTML / CSS tutorial exercises did you do?
+
+I did quite a few of the exercises to see what the page looked
+like side-by-side with the HTML and CSS.
+
+5. How comfortable do you feel with HTML and CSS now?
+
+I feel fairly comfortable with HTML but I am still not very
+confident in a lot of CSS elements.
+
+6. How many JS tutorial exercises did you do?
+
+I did 1 or two of the exercises. A lot of the things I had
+trouble with in JS I found online through places like 
+Stackoverflow.
+
+7. How comfortable do you feel with JS now?
+
+I feel pretty comfortable coding in JS now that I made an entire
+ program in it.
+
+8. Do all of your HTML pages pass the W3C HTML validator?
+(https://validator.w3.org/)
+
+yes
+
+9. Which parts of this assignment did you have trouble with, if any?
+
+I had trouble with some of the edge cases for the calculator. There 
+were many times where I could not find the cause of some strange
+inputs displaying on the calculator but I solved through debugging.
+
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
