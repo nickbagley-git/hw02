@@ -1,0 +1,21 @@
+#color1 {
+  color: red
+}
+
+#color2 {
+  color: blue
+}
+
+#color3 {
+  color: green
+}
+
+table, th, td {
+  border:1px solid black;
+  border-collapse: collapse;
+}
+
+td, th {
+  text-align: center;
+  padding: 15px;
+}
